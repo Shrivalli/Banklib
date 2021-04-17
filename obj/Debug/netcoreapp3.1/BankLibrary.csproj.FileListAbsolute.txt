@@ -4,6 +4,6 @@ G:\Sopra Steria\Batch II\BankLibrary\bin\Debug\netcoreapp3.1\BankLibrary.pdb
 G:\Sopra Steria\Batch II\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.csprojAssemblyReference.cache
 G:\Sopra Steria\Batch II\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.AssemblyInfoInputs.cache
 G:\Sopra Steria\Batch II\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.AssemblyInfo.cs
-G:\Sopra Steria\Batch II\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.csproj.CoreCompileInputs.cache
 G:\Sopra Steria\Batch II\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.dll
 G:\Sopra Steria\Batch II\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.pdb
+G:\Sopra Steria\Batch II\BankLibrary\obj\Debug\netcoreapp3.1\BankLibrary.csproj.CoreCompileInputs.cache

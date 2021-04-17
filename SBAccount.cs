@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Xml.Serialization;
 
 namespace BankLibrary
 {
+    
     public class SBAccount
     {
         public int AccountNumber { get; set; }

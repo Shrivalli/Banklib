@@ -11,5 +11,10 @@ namespace BankLibrary
         public int AccountNumber { get; set; }
         public double Amount { get; set; }
         public string TransactionType { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format(AccountNumber + " " +Amount + " " + TransactionDate.ToShortDateString());
+        }
     }
 }

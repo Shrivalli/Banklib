@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rEdHb6QVfIPzq3bcryqQYD0yH333zYRJkVEGrTeEP0XkOlBxw114Rm0rnotbLl2Ec26oPejFvPO2vHljqZgjSA==",
+  "dgSpecHash": "QsixPfTHmqwoc7pxhuJ8GnXqwLwxSl8nJukyXY6TdJIgt7j4dBRN3cFJ3a5OtP34uy5cNpAUYh6w0UV3rhrXRQ==",
   "success": true,
   "projectFilePath": "G:\\Sopra Steria\\Batch II\\BankLibrary\\BankLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Shrivalli\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
